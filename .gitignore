@@ -1,0 +1,5 @@
+# Original camera files — too large for GitHub Pages; the site uses images/
+RK Ghana Cooking Class/
+*.mp4
+.DS_Store
+Thumbs.db
